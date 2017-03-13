@@ -1,5 +1,8 @@
 _repo: Cast-Adrift_4592
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -18,6 +21,8 @@ description: The river of her life, which had cut for itself a deeper channel, l
   she was reserved and distant; to her father, warm and confiding. With the former
   she would sit for hours without speaking unless addressed; with the latter she was
   pleased and social, and grew to be interested in what interested him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4592#Cast-Adrift
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
